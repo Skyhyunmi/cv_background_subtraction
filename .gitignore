@@ -1,0 +1,6 @@
+/venv
+/groundtruth/*
+/input/*
+/result_es/*
+.DS_Store
+*.avi
