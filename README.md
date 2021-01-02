@@ -2,7 +2,7 @@
 <p>
 </p>
 
- CDnet 2014 DataSet - Camera Jitter - Badminton 영상의 사람 검출 코드입니다.
+ CDnet 2014 DataSet - Camera Jitter - Badminton 영상의 배경 제거 코드입니다.
 
 ## Install
 
