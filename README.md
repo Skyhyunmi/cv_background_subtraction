@@ -1,11 +1,16 @@
-<h1 align="center">Welcome to cv_stabilization 👋</h1>
+<h1 align="center">Welcome to cv_background_subtraction 👋</h1>
 <p>
 </p>
 
  CDnet 2014 DataSet - Camera Jitter - Badminton 영상의 배경 제거 코드입니다.
 
-## Install
+## Library
+- numpy
+- matplotlib
+- opencv-python
 
+## Install
+CDnet 2014 데이터셋 중 Camera Jitter - Badmintion 영상을 다운로드 받습니다.
 ```sh
 sh setup.sh
 ```
