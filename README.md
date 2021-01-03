@@ -18,14 +18,14 @@ sh setup.sh
 ## Usage
 
 ```sh
-python3 es_main.py
+python3 main.py
 ```
 
 ## Result
 
 ```
-TP : 3878158  ||  GT : 5270196 ||  EST : 4178549
-Recall : 73.587 %  ||  Precision : 92.811 %
+TP : 4715024  ||  GT : 5867403 ||  EST : 5662270
+Recall : 80.360 %  ||  Precision : 83.271 %
 ```
 
 ## Author

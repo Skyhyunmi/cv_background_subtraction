@@ -4,3 +4,4 @@
 /result_es/*
 .DS_Store
 *.avi
+__pycache__
